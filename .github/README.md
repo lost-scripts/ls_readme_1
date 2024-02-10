@@ -1,1 +1,1 @@
-../ScriptResources/ls_readme_test/Docs/README.htm
+../ScriptResources/ls_readme_test/README.htm
