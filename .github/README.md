@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1 align="center">Lost Scripts' Shapes Window</h1>
-	<p align="center"><img src="./ScriptResources/ls_readme_test/ls_shapes_window@2x.png" width="96" height="80"></img></p>
+	<p align="center"><img src="./README_ls_shapes_window@2x.png" width="96" height="80"></img></p>
 	<h2 align="center">Description</h2>
 	<p>A persistent shape palette plus helpers for better management of Moho® vectors in general and the AMAZING new "Liquid Shapes" in particular. Main features:</p>
 	<h2 align="center">Main Features</h2>
